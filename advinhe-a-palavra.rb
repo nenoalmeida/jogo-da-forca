@@ -2,11 +2,11 @@ novo_jogo = "s"
 
 	while novo_jogo == "s"
 
-	palavras = %w(cachorro gato camelo formiga morcego dromedario)
+	palavras = %w(cachorro gato camelo formiga morcego dromedario zebra chipanze ramster coelho elefante camaleao cobra corvo )
 	palavra_sorteada = palavras.sample 
 	palavra_tamanho = palavra_sorteada.size
 
-	puts "Descubra a palavra que eu estou pensando"
+	puts "Descubra o animal em que estou pensando"
 
 	palavra_parcial = []
 	palavra_tamanho.times do 
