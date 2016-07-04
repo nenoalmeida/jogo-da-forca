@@ -1,3 +1,4 @@
+
 novo_jogo = "s"
 
 	while novo_jogo == "s"
