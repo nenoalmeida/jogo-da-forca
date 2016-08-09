@@ -3,7 +3,7 @@ novo_jogo = "s"
 
 	while novo_jogo == "s"
 
-	palavras = %w(cachorro gato camelo formiga morcego elefante zebra panda pinguim leao dromedario zebra chipanze ramster coelho elefante camaleao cobra corvo )
+	palavras = %w(cachorro gato camelo formiga morcego ornintorrinco coruja elefante zebra panda pinguim leao dromedario zebra chipanze ramster coelho elefante camaleao cobra corvo )
 	palavra_sorteada = palavras.sample 
 	palavra_tamanho = palavra_sorteada.size
 
